@@ -1,4 +1,4 @@
-# Hi, I'm Kaviya Laxmi!
+# Hi, I'm KaviyaLaxmi!
 
 I'm a 3rd-year student majoring in Artificial Intelligence and Data Science. Welcome to my GitHub profile! Here you'll find some of my projects and code related to AI and Data Science.
 
